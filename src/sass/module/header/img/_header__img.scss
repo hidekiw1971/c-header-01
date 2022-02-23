@@ -1,0 +1,10 @@
+@use "global" as *;
+
+// sm size 375px
+.header__img {
+  max-width: rem(94);
+  width: 100%;
+  max-height: rem(25);
+  height: 100%;
+  margin: 0 0 0 rem(15);
+}
